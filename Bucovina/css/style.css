@@ -47,3 +47,94 @@ nav ul li:hover{
     background-color:rgb(152, 158, 119);    
     font-weight: bold;
 }
+#siteBody{
+    position: relative;
+    margin-top: 0;
+    width:100%;
+    background-color: bisque;    
+    padding-top: 20px;    
+}
+h1{
+    margin-left: 30px;
+    text-decoration: underline;
+    text-align: center;
+}
+h2{
+    margin-left: 30px;
+    padding-top: 20px;    
+}
+p{
+    padding: 10px 30px;
+}
+div#intro{
+    box-sizing: border-box;    
+    display:flex;
+    margin:10px;
+    padding:10px;     
+}
+#intro-guides{
+    margin:0;
+    padding:10px;
+    list-style-type: none;
+}
+.guides{
+    padding:10px;
+    font-size:19px;
+    color:darkolivegreen;
+}
+figure{
+    margin:10px;
+    padding:30px;
+    margin:0 auto;
+    display: flex;
+}
+.photo-Landscape{   
+    max-width:300px;
+    max-height:250px;
+    padding:5px 5px;
+    margin: 0 auto; 
+    align-items: center;   
+}
+.map{
+    display: flex;
+    width:100%;
+    }    
+.map img{
+    
+    margin: 0 auto;
+    
+}
+div.video-Bucovina{ 
+    display:flex;    
+}
+video.video-Bukovina{    
+    margin: 0 auto;
+    padding-top: 15px;
+}
+.connect{
+    display: flex;
+    padding-bottom: 60px;
+}
+.fa{
+    margin-left:45px;
+    padding: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook{
+    background: #3B5998;
+    color: white;
+    align-items: center; 
+    margin-left: 300px;   
+}
+.fa-instagram{
+    background-color: #e44fdc;
+    color: white;
+}
+.disclaimer{
+    border-top: 1px solid darkolivegreen;
+    text-align: center;
+    padding-bottom: 20px;    
+}
+/* begin styling for elements on place-of-interest webpage */
