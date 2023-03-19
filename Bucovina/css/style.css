@@ -5,9 +5,45 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    background-color:lightskyblue;    
+    background-color:lightskyblue;
+    margin: 0;
 }
-#siteContainer{
+div#siteContainer{
     max-width: 1000px;
     margin:0 auto;   
+}
+#siteHeader{
+    position: relative;
+    top:0;    
+}
+#siteHeader img{    
+    top: 0px;
+    width: 100%;
+    display: block;    
+}
+.buttonList{    
+    background-color: bisque;    
+    margin: 0 auto;         
+}
+nav ul{
+    margin:0 auto;
+    display: flex;
+}
+nav li{
+    display: inline-block;
+    margin:0 auto;
+    padding: 10px;
+    align-items: center;     
+} 
+nav a{
+    color:rgb(167, 63, 167);
+    font-size: 13px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0 30px; 
+    display: block;   
+}
+nav ul li:hover{
+    background-color:rgb(152, 158, 119);    
+    font-weight: bold;
 }
