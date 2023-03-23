@@ -126,7 +126,8 @@ video.video-Bukovina{
     background: #3B5998;
     color: white;
     align-items: center; 
-    margin-left: 300px;   
+    margin-left: 300px;
+    font-size: 30px;   
 }
 .fa-instagram{
     background-color: #e44fdc;
@@ -138,3 +139,119 @@ video.video-Bukovina{
     padding-bottom: 20px;    
 }
 /* begin styling for elements on place-of-interest webpage */
+
+div.hotels{    
+    height: fit-content;
+    padding:10px;
+}
+.hotelcontainer{    
+    border:1px solid lightgray;
+    height: fit-content;
+    padding:3px;
+    display:flex;
+    margin: 5px 0;    
+}
+img.hotelPhoto{
+    max-height: 200px;  
+    max-width: 200px;   
+}
+
+.hotelcontainer a{
+    margin-left:15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    height: min-content;
+}
+
+.hoteldescription{
+    padding: 0;
+    margin-left:15px;
+}
+
+div.landmarks{
+    display: flex;
+    margin-left: 170px;
+}
+
+.landmarks img{
+    max-width: 300px;
+    max-height: 300px;
+    align-items: center;
+    
+}
+.landmarks a{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.photomon{
+    margin:10px 15px;
+}
+h2.tours{
+    margin:50px 50px;
+}
+.tourtable{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    border: 1px solid #303a94; 
+    border-collapse: collapse;
+    width:90%;
+    margin-left: 5%;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.tourtable th, .tourtable td{
+    border: 1px solid #303a94;
+    padding:5px;
+
+}
+.tourtable tr:nth-child(even){
+    background-color: rgb(202, 223, 197);
+}
+.tourtable tr:hover{
+    background-color: #dd3;
+}
+.tourtable th{
+    background-color: cornsilk;
+    font-size: 18px;
+
+}
+.price{
+    font-size:16px;
+    padding: 0;
+    margin-right: 50px;
+    float:right;
+    color: #303a94;
+    font-weight: bold;
+}
+.priceBreakdown{
+    font-size:14px;
+    color: #303a94;
+    padding: 0;
+    margin: 0 50px;
+}
+p.red{
+    color:red;
+}
+
+.button{
+    padding: 15px 30px;
+    background-color: #3cbb73;
+    display: inline-block;
+    align-items: end;
+    margin-left: 80%;
+    border: none;
+    border-radius: 10%;
+    cursor: pointer;
+
+    
+}
+.button a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
