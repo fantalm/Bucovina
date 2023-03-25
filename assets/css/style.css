@@ -72,6 +72,13 @@ div#intro{
     margin:10px;
     padding:10px;     
 }
+#intro img{
+    aspect-ratio: auto;
+    position: relative;
+    top:0;
+    left:0;
+    max-height: 350px;
+}
 #introGuides{
     margin:0;
     padding:10px;
