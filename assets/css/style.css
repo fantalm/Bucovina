@@ -72,7 +72,7 @@ div#intro{
     margin:10px;
     padding:10px;     
 }
-#intro-guides{
+#introGuides{
     margin:0;
     padding:10px;
     list-style-type: none;
@@ -88,7 +88,7 @@ figure{
     margin:0 auto;
     display: flex;
 }
-.photo-Landscape{   
+.photoLandscape{   
     max-width:300px;
     max-height:250px;
     padding:5px 5px;
@@ -104,10 +104,10 @@ figure{
     margin: 0 auto;
     
 }
-div.video-Bucovina{ 
+div.videoBucovina{ 
     display:flex;    
 }
-video.video-Bukovina{    
+video.videoBukovina{    
     margin: 0 auto;
     padding-top: 15px;
 }
@@ -115,6 +115,7 @@ video.video-Bukovina{
     display: flex;
     padding-bottom: 60px;
 }
+/* styling for social media buttons inspired from W3School */
 .fa{
     margin-left:45px;
     padding: 20px;
@@ -144,7 +145,7 @@ div.hotels{
     height: fit-content;
     padding:10px;
 }
-.hotelcontainer{    
+.hotelContainer{    
     border:1px solid lightgray;
     height: fit-content;
     padding:3px;
@@ -156,14 +157,14 @@ img.hotelPhoto{
     max-width: 200px;   
 }
 
-.hotelcontainer a{
+.hotelContainer a{
     margin-left:15px;
     text-decoration: none;
     text-transform: uppercase;
     height: min-content;
 }
 
-.hoteldescription{
+.hotelDescription{
     padding: 0;
     margin-left:15px;
 }
@@ -188,10 +189,12 @@ div.landmarks{
 .photomon{
     margin:10px 15px;
 }
+/* begin styling on tour-schedule.html */
+
 h2.tours{
     margin:50px 50px;
 }
-.tourtable{
+.tourTable{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     border: 1px solid #303a94; 
@@ -202,18 +205,18 @@ h2.tours{
     text-align: center;
     margin-top: 20px;
 }
-.tourtable th, .tourtable td{
+.tourTable th, .tourTable td{
     border: 1px solid #303a94;
     padding:5px;
 
 }
-.tourtable tr:nth-child(even){
+.tourTable tr:nth-child(even){
     background-color: rgb(202, 223, 197);
 }
-.tourtable tr:hover{
+.tourTable tr:hover{
     background-color: #dd3;
 }
-.tourtable th{
+.tourTable th{
     background-color: cornsilk;
     font-size: 18px;
 
