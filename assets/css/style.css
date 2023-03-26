@@ -8,7 +8,7 @@ body{
     background-color:lightskyblue;
     margin: 0;
 }
-div#siteContainer{
+#siteContainer{
     max-width: 1000px;
     margin:0 auto;   
 }
@@ -66,7 +66,7 @@ h2{
 p{
     padding: 10px 30px;
 }
-div#intro{
+#intro{
     box-sizing: border-box;    
     display:flex;
     margin:10px;
@@ -105,24 +105,36 @@ figure{
 .map{
     display: flex;
     width:100%;
-    }    
-.map img{
-    
-    margin: 0 auto;
-    
+}   
+
+.map img{    
+    margin: 0 auto;    
 }
-div.videoBucovina{ 
-    display:flex;    
+
+.videoContainer{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%;           
 }
-video.videoBukovina{    
-    margin: 0 auto;
-    padding-top: 15px;
+
+.video{
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    border: none;
 }
+
 .connect{
     display: flex;
     padding-bottom: 60px;
 }
+
 /* styling for social media buttons inspired from W3School */
+
 .fa{
     margin-left:45px;
     padding: 20px;
