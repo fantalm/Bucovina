@@ -23,7 +23,44 @@
                     <li><a href="./contact-us.html">Contact us</a></li>
                 </ul>
             </nav>
-
+        </div>
+        <div id="siteBody">
+            <h2>Booking Form</h2>
+            <form action="bookingform.discoverbucovina.com" method="POST">
+                <fieldset>
+                    <legend>Your details</legend>
+                    <label for="fname">First Name*:</label>
+                    <input type="text" id="fname" name="fname" placeholder="First Name" required>
+                    <label for="lname">Last Name*:</label>
+                    <input type="text" id="lname" name="lname" placeholder="Last Name" required>
+                    <label for="phone">Phone Number*:</label>
+                    <input type="tel" id="phone" name="phone" placeholder="Your phone number" required>
+                    <label for="age">Age:</label>
+                    <input type="text" id="age" name="age-list" list="age-range">
+                    <datalist id="age-range">
+                        <option value="20-29" selected>20-29</option>
+                        <option value="30-39">30-39</option>
+                        <option value="40-49">40-49</option>
+                        <option value="50+">50+</option>
+                    </datalist>
+                    <label>Do you have any special needs that you feel we should know about?*</label>
+                    <input type="radio" id="yes" name="disability" value="Yes" required>
+                    <label for="yes">Yes</label>
+                    <input type="radio" id="no" name="disability" value="No" >
+                    <label for="yes">No</label><br>
+                    <label for="needs"> If Yes please provide details:</label><br>
+                    <textarea id="needs" name="needs" rows="5" cols="20"></textarea>
+                    <p class="red">The fields marked with * are mandatory.</p>
+                </fieldset>
+                <label>Chose the tour you want to go on:</label><br>
+                <input type="radio" name="tours" id="historical-tour" value="historical-tour" required>
+                <label for="historical-tour">Historical tour</label>
+                <input type="radio" name="tours" id="trail-tour" value="trail-tour">
+                <label for="trail-tour">Trail and salt mine tour</label><br><br>
+                <label for="date">Chose the date you want to go on the tour.*</label>
+                <input type="date" id="date" name="date" required>
+                <input type="submit" value="Book tour" class="button">
+            </form>
 
 
         </div>
