@@ -259,4 +259,7 @@ p.red{
     font-size: 18px;
     font-weight: bold;
 }
-
+/* styles applied to booking form */
+label, input{
+    display: block;
+}
