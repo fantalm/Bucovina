@@ -260,6 +260,44 @@ p.red{
     font-weight: bold;
 }
 /* styles applied to booking form */
-label, input{
+
+#bookingForm{    
+    width:40%;
+    position: relative;
+    left:30%;
+    padding: 3%;
+}
+#bookingForm h2{
+    text-align: center;
+}
+
+
+.details{
+    font-size: 15px;
+    position: relative;
+    left: 10%;  
+}
+
+.textInput{
+    width: 80%;
+    height: 25px;
+    border-radius: 4px;
     display: block;
+    position: relative;
+    left: 10%;
+    margin-top: 5px;
+}
+.textInput:hover{
+    background-color: aqua;
+}
+#needs{
+    width: 80%;
+    height: 100px;
+    position: relative;
+    left: 10%;
+}
+#bookingForm div{
+    position: relative;
+    left: 40%;
+    margin-bottom:20px;
 }
