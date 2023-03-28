@@ -301,3 +301,23 @@ p.red{
     left: 40%;
     margin-bottom:20px;
 }
+#date{
+    position:relative;    
+    left:30%;
+    margin: 20px 0;
+}
+.button2{
+    padding: 15px 30px;
+    background-color: #3cbb73;    
+    align-items: center;
+    margin-left: 30%;
+    border: none;
+    border-radius: 10%;
+    cursor: pointer;
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    color:#fff;    
+}
+
+
