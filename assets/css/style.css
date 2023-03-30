@@ -136,6 +136,12 @@ figure{
     background-color: #e44fdc;
     color: white;
 }
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+/* styling the footer */
+
 .disclaimer{
     border-top: 1px solid darkolivegreen;
     text-align: center;
