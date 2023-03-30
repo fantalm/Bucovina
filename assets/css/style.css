@@ -319,5 +319,49 @@ p.red{
     font-size: 18px;
     color:#fff;    
 }
+/* begin styling on contact-us.html */
+
+#contactHeading{
+    padding-bottom: 20px;
+}
+
+#contactContainer{
+    width: 100%; 
+    display: table;
+    clear: both;
+}
+#contactContainer div{
+    float:left;
+    height:80px;
+    width:fit-content;
+    margin-left: 30px;
+}
+
+.channel div{     
+    height: 64px;
+    display: inline-block;
+    position:relative;
+    left:5%;
+    top:15px;
+    text-align: right;
+    padding-left: 10px;   
+}
+.phoneNumbers li{
+    list-style-type: none;
+    padding: 1.5px 0;
+    text-decoration: underline;
+}
+#emailAddress{
+    font-size: 16px;
+    font-weight: bold;
+}
+#contactForm{
+    margin-left: 30px;
+}
+input[value=Send]{
+    margin-top: 15px;
+    margin-left: 10%;
+}
+
 
 
