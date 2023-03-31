@@ -34,11 +34,18 @@ The navigation bar consists of 5 buttons displayed horizontally on resolutions g
 
 The "About Us" section consists of a photo of the 4 tour guides and a short description of their roles.
 
-** 3. About Bucovina **
+**3. About Bucovina**
 In this section gave a brief description of Bucovina providing 3 more photos that encapsulate the beauty of nature and simple life style and a historical map of the province. 
 Apart from the stunning landscape photos the key aspect of this section is the video about Bucovina taken from the youtube channel called FramingReality.
 
-![Screenshot ]
+![Screenshot of About Bucovina section](./assets/images/readme_photos/index_feature_2.png)
+
+**4. Footer**
+The footer contains social media buttons and the onwership on the site. The footer is present on each page.
+
+![Screenshot of footer section](./assets/images/readme_photos/index_feature_3.png)
+
+
 
 
 
