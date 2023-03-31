@@ -417,10 +417,42 @@ input[value=Send]{
         position: relative;
         left:20%;
         padding: 3%;
+    }  
+}
+/* media queries for displays lower than 550px */
+@media screen and (max-width: 550px){
+    #intro{
+        padding: 0;
+        margin:0;
     }
     
-
-
+    #intro img{
+        max-width: 300px;   
+        
+    }
+    .hotelContainer{
+        padding: 0;
+    }
+    img.hotelPhoto{
+        min-width: 80px;         
+    }
+    .duration{
+        display: none;
+    }
+    .button{
+        margin-left: 60%;
+    }
+    #bookingForm{    
+        width:90%;
+        position: relative;
+        left:5%;
+        padding: 1%;
+    }
+    .details,
+    .textInput{
+        left:5%;
+    }    
 }
+
 
 
