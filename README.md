@@ -35,15 +35,57 @@ The navigation bar consists of 5 buttons displayed horizontally on resolutions g
 The "About Us" section consists of a photo of the 4 tour guides and a short description of their roles.
 
 **3. About Bucovina**
+
 In this section gave a brief description of Bucovina providing 3 more photos that encapsulate the beauty of nature and simple life style and a historical map of the province. 
 Apart from the stunning landscape photos the key aspect of this section is the video about Bucovina taken from the youtube channel called FramingReality.
 
 ![Screenshot of About Bucovina section](./assets/images/readme_photos/index_feature_2.png)
 
 **4. Footer**
-The footer contains social media buttons and the onwership on the site. The footer is present on each page.
+
+The footer contains social media buttons and my email address. The footer is present on each page.
 
 ![Screenshot of footer section](./assets/images/readme_photos/index_feature_3.png)
+
+
+#### Places of interest.html
+
+On the second page called Places of interest we have the following features:
+
+1. Accomodations
+2. Monasteries and museums
+3. Natural landmarks
+
+**1. Accomodations**
+
+In this sections there are a few recommandations for hotels and B&B's with links to their page on the [Bookings.com](wwww.bookings.com.)
+
+![Screenshot of Accomodation](./assets/images/readme_photos/accomodations.png)
+
+**2. Monasteries and museums**
+
+In this section there are photos and links to [Wikipedia](www.wikipedia.org)(for Voronet and Putna Monasteries) or to [Muzee de la sat](https://muzeedelasat.ro/) for Cacia Salt Mine and to [Explore Bucovina] (https://explorebucovina.com/the-bukovina-village-museum/) for the Village Museum. All the links are opening in a new tab and have the "aria-label" attribute set.
+
+
+![Monasteries and museums](./assets/images/readme_photos/Monasteries_and_museums.png) 
+
+**3. Natural landmarks**
+
+In this section, styled like the above Monasteries section we can find other atractions that the web application is set to promote. The external links used in this section are as follows:
+*[Wikipedia](www.wikipedia.org) for : - "The stones of the Lady" landmark
+                                      - Suceava castle
+                                      - Bicaz canyon
+*[Mocanita](https://mocanitamoldovita.com/) for the *Mocanita* lumber train
+*[The Campulung Moldovenesc city website](https://campulungmoldovenesc.ro/descopera/cheile-moara-dracului) for the Devil's Mill passage
+
+The photos on this page are nested in the anchor tag so that when clicked the browser opens the above mentioned links in new tabs.
+
+![Natural landmarks feature](./assets/images/readme_photos/natural_landmarks.png)
+
+
+
+
+
 
 
 
