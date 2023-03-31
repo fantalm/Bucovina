@@ -18,7 +18,7 @@ The purpose of this application is to help promote the travel services of 4 funk
 On the landing page we have the hero image, a photo of a valley in Bucovina covered in fog. I chose this photo because it is emblematic for the beatifull landscapes of Bucovina and so it supports the purpose of the website. For this reason and for consistency I chose to display this image on all 5 pages of the website.
 Right below the hero image we have the navigation bar.
 
-** 1. Navigation Bar **
+**1. Navigation Bar**
 The navigation bar consists of 4 buttons displayed horizontally on resolutions greater than 900px and vertically for lower resolutions. 
 
 1. Home
@@ -29,7 +29,7 @@ The navigation bar consists of 4 buttons displayed horizontally on resolutions g
 
 ![Screenshot of hero image and navigation bar](./assets/images/readme_photos/index_feature_1.png)
 
-** 2. About us **
+**2. About us**
 
 The "About Us" section consists of a photo of the 4 tour guides and a short description of their roles.
 
