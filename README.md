@@ -28,7 +28,7 @@ The navigation bar consists of 5 buttons displayed horizontally on resolutions g
 4. Bookings
 5. Contact us
 
-![Screenshot of hero image and navigation bar](./assets/images/readme_photos/index_feature_1.png)
+![Screenshot of hero image and navigation bar and About us section](./assets/images/readme_photos/index_feature_1.png)
 
 **2. About us**
 
@@ -36,6 +36,9 @@ The "About Us" section consists of a photo of the 4 tour guides and a short desc
 
 ** 3. About Bucovina **
 In this section gave a brief description of Bucovina providing 3 more photos that encapsulate the beauty of nature and simple life style and a historical map of the province. 
+Apart from the stunning landscape photos the key aspect of this section is the video about Bucovina taken from the youtube channel called FramingReality.
+
+![Screenshot ]
 
 
 
