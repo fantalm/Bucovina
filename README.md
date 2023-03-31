@@ -19,7 +19,8 @@ On the landing page we have the hero image, a photo of a valley in Bucovina cove
 Right below the hero image we have the navigation bar.
 
 **1. Navigation Bar**
-The navigation bar consists of 4 buttons displayed horizontally on resolutions greater than 900px and vertically for lower resolutions. 
+
+The navigation bar consists of 5 buttons displayed horizontally on resolutions greater than 900px and vertically for lower resolutions. 
 
 1. Home
 2. Places of interest
