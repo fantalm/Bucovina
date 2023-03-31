@@ -114,6 +114,14 @@ figure{
 .map img{    
     margin: 0 auto;    
 }
+/* styling the iframe containing the video. The 16:9 aspect ratio is made through inline styling of the iframe replacing the pixles values with precentage */
+
+.video{
+    position: relative;
+    top:0;
+    left: 23%;
+    border: none;
+}
 
 .connect{
     display: flex;
