@@ -73,6 +73,7 @@ In this section there are photos and links to [Wikipedia](www.wikipedia.org)(for
 **3. Natural landmarks**
 
 In this section, styled like the above Monasteries section we can find other atractions that the web application is set to promote. The external links used in this section are as follows:
+
 *[Wikipedia](www.wikipedia.org) for : - "The stones of the Lady" landmark
                                       - Suceava castle
                                       - Bicaz canyon
