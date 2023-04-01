@@ -76,9 +76,9 @@ In this section, styled like the above Monasteries section we can find other atr
 
 *[Wikipedia](www.wikipedia.org) for : 
 
-    + "The stones of the Lady" landmark
-    + Suceava castle
-    + Bicaz canyon
++ "The stones of the Lady" landmark
++ Suceava castle
++ Bicaz canyon
                                       
 *[Mocanita](https://mocanitamoldovita.com/) for the *Mocanita* lumber train
 *[The Campulung Moldovenesc city website](https://campulungmoldovenesc.ro/descopera/cheile-moara-dracului) for the Devil's Mill passage
