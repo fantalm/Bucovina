@@ -188,7 +188,9 @@ The live link can be found here - [https://fantalm.github.io/Bucovina/index.html
     - [Explore Bucovina](https://explorebucovina.com/the-bukovina-village-museum/)
 
 
+#### Special thanks
 
+I would like to say a big thank you to my mentor Derek for support and research material and also to the Site Manager and Contract Manager from my current job for understanding my passion for coding.
 
  
 
