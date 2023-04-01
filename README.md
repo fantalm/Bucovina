@@ -153,6 +153,18 @@ I can cofirm that my code passed throgugh the  official Jigsaw validator
 ![Accesibility 97%](./assets/images/readme_photos/lighthouse.png)
 
 
+### Deployment
+
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+
++ The site was deployed to GitHub pages. The steps to deploy are as follows:
+    * In the GitHub repository, navigate to the Settings tab
+    * From the source section drop-down menu, select the Master Branch
+    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+    
+    
+The live link can be found here - [https://fantalm.github.io/Bucovina/index.html](https://fantalm.github.io/Bucovina/index.html)
+
  
 
 
