@@ -119,8 +119,35 @@ This page contains the contact information like phone numbers and email address 
 * Bicaz canyon tour
 
 
+### Testing
 
- 
+I have tested my application using the following browsers:
++ Chrome
++ Mozzila Firefox
++ Microsoft
+
+I can confirm that all external links work, open in a new tab and have aria-label attribute set. Also the video attached on the Home page does not autoplay and the user has control over it.
+
+#### Bugs
+
+While building the application I have encountered a few bugs one and the most important was the one encountered while trying to load the video. Initially I used the video tag but after a session with my Code Institute mentor I decided to use the iframe element for both the video and a google map on the *Contact Us* page. The problem was that the content in the iframe element was not loading and the error in this case was *Google refused to load the page*. 
+
+Doing some research I found out that there is a *Content Security Policy* in place that prevents the browser to load the content and I would have to add a meta tag in the header of the html files.
+
+![CSP meta tag](./assets/images/readme_photos/csp_code.png)
+
+After applying the meta tag in the header of the html files the browser was refusing to load my hero image.
+
+![No banner](./assets/images/readme_photos/iframe_bug.png)
+
+My mentor saved me by showing me that I can take the embeded content in html format from the source. Thank you Derek <3
+
+
+
+
+
+
+
  
 
 
