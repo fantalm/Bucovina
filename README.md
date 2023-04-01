@@ -74,14 +74,14 @@ In this section there are photos and links to [Wikipedia](www.wikipedia.org)(for
 
 In this section, styled like the above Monasteries section we can find other atractions that the web application is set to promote. The external links used in this section are as follows:
 
-*[Wikipedia](www.wikipedia.org) for : 
+* [Wikipedia](www.wikipedia.org) for : 
 
 + "The stones of the Lady" landmark
 + Suceava castle
 + Bicaz canyon
                                       
-*[Mocanita](https://mocanitamoldovita.com/) for the *Mocanita* lumber train
-*[The Campulung Moldovenesc city website](https://campulungmoldovenesc.ro/descopera/cheile-moara-dracului) for the Devil's Mill passage
+* [Mocanita](https://mocanitamoldovita.com/) for the *Mocanita* lumber train
+* [The Campulung Moldovenesc city website](https://campulungmoldovenesc.ro/descopera/cheile-moara-dracului) for the Devil's Mill passage
 
 The photos on this page are nested in the anchor tag so that when clicked the browser opens the mentioned links in new tabs.
 
