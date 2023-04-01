@@ -112,7 +112,16 @@ All the inputs are required and they all have the appropriate type attribute ass
 
 This page contains the contact information like phone numbers and email address and also a form for users to leave a message. To maintain consistency I have used the same styling for the *Send* button like the one on the Tour schedule page changing only its position.
 
+### Features Left to Implement
 
+* Photo gallery
+* Testimonials sections
+* Bicaz canyon tour
+
+
+
+ 
+ 
 
 
 
