@@ -159,11 +159,36 @@ This section should describe the process you went through to deploy the project 
 
 + The site was deployed to GitHub pages. The steps to deploy are as follows:
     * In the GitHub repository, navigate to the Settings tab
-    * From the source section drop-down menu, select the Master Branch
-    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+    * From the source section drop-down menu, select the Main Branch
+    * Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
     
     
 The live link can be found here - [https://fantalm.github.io/Bucovina/index.html](https://fantalm.github.io/Bucovina/index.html)
+
+
+### Credits
+
+#### Content
+
+* Social media buttons with styling is inspired from [W3Schools](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp) 
+* The text in the *About Bucovina* section was taken from [Directbooking](https://romania.directbooking.ro/prezentare-bucovina-informatii-poze-imagini-31721.aspx)
+* Instructions on  media queries and responsiveness were taken from [WebdevSimplified](https://www.youtube.com/@WebDevSimplified) youtube channel
+* Instructions on Github were taken from [TheNetNinja](https://www.youtube.com/@NetNinja) youtube channel
+
+
+#### Media
+
++ The hero image was taken from [Dreamstime.com](https://www.dreamstime.com/)
++ Video about Bucovina was taken from [FramingReality](https://www.youtube.com/@FramingReality) youtube channel
++ Photos of Hotels and B&B's were taken from [Bookings.com](https://www.booking.com/index.en-gb.html?aid=355028&sid=6ad85d84fda5238f7f06111176a72165&keep_landing=1&sb_price_type=total&)
++ Photos of landmarks, museums and monasteries were taken from :
+    - [Wikipedia](https://www.wikipedia.org/)
+    - [https://campulungmoldovenesc.ro/descopera/cheile-moara-dracului](https://campulungmoldovenesc.ro/descopera/cheile-moara-dracului)
+    - [Muzee de la sat](https://muzeedelasat.ro/)
+    - [Explore Bucovina](https://explorebucovina.com/the-bukovina-village-museum/)
+
+
+
 
  
 
