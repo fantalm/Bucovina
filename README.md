@@ -142,10 +142,15 @@ After applying the meta tag in the header of the html files the browser was refu
 
 My mentor saved me by showing me that I can take the embeded content in html format from the source. Thank you Derek <3
 
+#### Validator Testing
 
+I can cofirm that my code passed throgugh the official W3C validator 
 
+I can cofirm that my code passed throgugh the  official Jigsaw validator
 
+#### Accesibility
 
+![Accesibility 97%](./assets/images/readme_photos/lighthouse.png)
 
 
  
